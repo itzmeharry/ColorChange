@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ColorChange/static/css/main.c3175e3d.css",
+    "main.js": "/ColorChange/static/js/main.6b8d9083.js",
+    "static/js/787.46e4fbba.chunk.js": "/ColorChange/static/js/787.46e4fbba.chunk.js",
+    "index.html": "/ColorChange/index.html",
+    "main.c3175e3d.css.map": "/ColorChange/static/css/main.c3175e3d.css.map",
+    "main.6b8d9083.js.map": "/ColorChange/static/js/main.6b8d9083.js.map",
+    "787.46e4fbba.chunk.js.map": "/ColorChange/static/js/787.46e4fbba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3175e3d.css",
+    "static/js/main.6b8d9083.js"
+  ]
+}
